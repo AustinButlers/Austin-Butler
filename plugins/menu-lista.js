@@ -93,9 +93,9 @@ let menu = `
 ┃☭╭──────────────
 ┃☭│ 〘 卐 _ᴏᴡɴᴇʀs ᴏғᴄ_ 卐 〙
 ┃☭│ 
-┃☭│  Timothee Chalamet
+┃☭│   Timothee Chalamet
 ┃☭│ 
-┃☭│    Austin Butler
+┃☭│     Austin Butler
 ┃☭│
 ┃☭│    ║▌│█║▌│█║▌│█│║▌║
 ┃☭│    ║▌│█║▌│█║▌│█│║▌║
